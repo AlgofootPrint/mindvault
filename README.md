@@ -176,7 +176,7 @@ Deployed on X Layer, the contract serves as the agent's permanent onchain identi
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/mindvault
+git clone https://github.com/Algofootprint/mindvault
 cd mindvault
 
 # Create .env (copy from .env.example and fill in values)
