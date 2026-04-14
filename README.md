@@ -222,7 +222,7 @@ irm https://raw.githubusercontent.com/okx/onchainos-skills/main/install.ps1 | ie
 
 | Name | Role |
 |------|------|
-| Damilola | Full Stack Developer & Project Lead |
+| Dupont | Full Stack Developer & Project Lead |
 
 ---
 
